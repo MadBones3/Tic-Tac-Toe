@@ -1,0 +1,25 @@
+.box {
+  background-color: #edf6f9;
+  border: none;
+  border-radius: 10%;
+  box-shadow: 0px 0px 3px #626262;
+  width: 5rem;
+  height: 5rem;
+  text-align: center;
+  font-size: 5em;
+  font-family: "Golos Text", sans-serif;
+  font-weight: bold;
+  line-height: 5rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+.box.x {
+  color: #81b29a;
+}
+.box.o {
+  color: #e07a5f;
+}
+.box:hover {
+  outline: 3px solid #3d405b;
+}
