@@ -4,9 +4,9 @@ A react dev Tic Tac Toe Game where the players can add their names and the game 
 
 ## Screenshots
 
-![Player name](https://github.com/MadBones3/Tic-Tac-Toe/blob/main/img/Player_name.PNG)
+![Player name](https://github.com/MadBones3/Tic-Tac-Toe/blob/main/img/Player_name.png)
 
-![Game Preview](https://github.com/MadBones3/Tic-Tac-Toe/blob/main/img/game_preview.PNG)
+![Game Preview](https://github.com/MadBones3/Tic-Tac-Toe/blob/main/img/game_preview.png)
 
 ## To Run the Game
 
